@@ -1,16 +1,33 @@
-# gamepad
+<h1 align="center">
+Gamepad<br>
+<h4 align="center">
+Play games offline with Gamepad
+</h4>
+</h1>
+<hr>
 
-A new Flutter project.
+<h3>What games are on the Gamepad?</h3>
 
-## Getting Started
+- TicTacToe
+- Snake
+- Reflex Tester
+- Speed tapper
+- Checkers
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Is Gamepad free?</h3>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Yes!** There is a free version of Gamepad. There is also a paid version. With the free version you are **NOT** limited to certain games but you will have ads. With the paid version all ads will be removed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Prices
+Free|Paid
+----|----
+All Games Access  ✅ | All Games Access  ✅
+Ad free ❌ | Ad free ✅
+|
+|
+**FREE** | **$5 Per month**
+<hr>
+
+### Licensing
