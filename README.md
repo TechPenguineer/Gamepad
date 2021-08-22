@@ -25,9 +25,7 @@ Free|Paid
 ----|----
 All Games Access  ✅ | All Games Access  ✅
 Ad free ❌ | Ad free ✅
-|
-|
-**FREE** | **$5 Per month**
+**FREE** | **$5 Per month or $20 all time**
 <hr>
 
 ### Licensing
